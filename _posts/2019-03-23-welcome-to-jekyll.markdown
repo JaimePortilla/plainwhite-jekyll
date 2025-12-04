@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Integrating razorpay into your webapp"
-date:   2019-03-23 21:03:36 +0530
-categories: Javascript NodeJS
+title:  Rust
+date:   2025-06-15 10:00
+categories: jekyll update
 ---
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+El Juego Rust es un juego de supervivencia multijugador en línea desarrollado por Facepunch Studios. Fue lanzado por primera vez en acceso anticipado en diciembre de 2013 y se lanzó oficialmente en febrero de 2018. El juego está disponible en varias plataformas, incluyendo Microsoft Windows y macOS.
 
 ```javascript
 const Razorpay = require('razorpay');
