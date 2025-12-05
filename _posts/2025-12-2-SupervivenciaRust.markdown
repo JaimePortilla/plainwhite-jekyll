@@ -24,7 +24,7 @@ El juego combina elementos de:
 ## Comunidad y Servidor
 
 
-![Rust](2025-12-2-SupervivenciaRust.markdown./assets/img/image.png)
+![alt text](../assets/img/image.png)
 
 
 Rust se juega en servidores privados gestionados por la comunidad, cada uno con sus propias reglas y dinámicas. La experiencia varía significativamente dependiendo del tipo de servidor que elijas.
